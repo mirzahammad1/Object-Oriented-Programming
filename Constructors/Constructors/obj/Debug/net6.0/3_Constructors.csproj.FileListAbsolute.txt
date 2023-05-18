@@ -1,0 +1,15 @@
+D:\UNI\OOP\Constructors\Constructors\bin\Debug\net6.0\3_Constructors.exe
+D:\UNI\OOP\Constructors\Constructors\bin\Debug\net6.0\3_Constructors.deps.json
+D:\UNI\OOP\Constructors\Constructors\bin\Debug\net6.0\3_Constructors.runtimeconfig.json
+D:\UNI\OOP\Constructors\Constructors\bin\Debug\net6.0\3_Constructors.dll
+D:\UNI\OOP\Constructors\Constructors\bin\Debug\net6.0\3_Constructors.pdb
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.csproj.AssemblyReference.cache
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.AssemblyInfoInputs.cache
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.AssemblyInfo.cs
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.csproj.CoreCompileInputs.cache
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.dll
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\refint\3_Constructors.dll
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.pdb
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\3_Constructors.genruntimeconfig.cache
+D:\UNI\OOP\Constructors\Constructors\obj\Debug\net6.0\ref\3_Constructors.dll

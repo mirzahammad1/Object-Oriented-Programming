@@ -1,0 +1,15 @@
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\bin\Debug\net6.0\5_Multi-Inheritance.exe
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\bin\Debug\net6.0\5_Multi-Inheritance.deps.json
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\bin\Debug\net6.0\5_Multi-Inheritance.runtimeconfig.json
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\bin\Debug\net6.0\5_Multi-Inheritance.dll
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\bin\Debug\net6.0\5_Multi-Inheritance.pdb
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.csproj.AssemblyReference.cache
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.AssemblyInfoInputs.cache
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.AssemblyInfo.cs
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.csproj.CoreCompileInputs.cache
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.dll
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\refint\5_Multi-Inheritance.dll
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.pdb
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\5_Multi-Inheritance.genruntimeconfig.cache
+D:\UNI\OOP\5_Multi-Inheritance\5_Multi-Inheritance\obj\Debug\net6.0\ref\5_Multi-Inheritance.dll

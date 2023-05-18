@@ -1,0 +1,15 @@
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\bin\Debug\net6.0\4_Properties (Get and Set).exe
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\bin\Debug\net6.0\4_Properties (Get and Set).deps.json
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\bin\Debug\net6.0\4_Properties (Get and Set).runtimeconfig.json
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\bin\Debug\net6.0\4_Properties (Get and Set).dll
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\bin\Debug\net6.0\4_Properties (Get and Set).pdb
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).csproj.AssemblyReference.cache
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).AssemblyInfoInputs.cache
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).AssemblyInfo.cs
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).csproj.CoreCompileInputs.cache
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).dll
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\refint\4_Properties (Get and Set).dll
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).pdb
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\4_Properties (Get and Set).genruntimeconfig.cache
+D:\UNI\OOP\4_Properties (Get and Set)\4_Properties (Get and Set)\obj\Debug\net6.0\ref\4_Properties (Get and Set).dll
