@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UNI\\OOP\\Constructors\\Constructors\\3_Constructors.csproj": {}
+    "D:\\UNI\\OOP\\3_Constructors\\Constructors\\3_Constructors.csproj": {}
   },
   "projects": {
-    "D:\\UNI\\OOP\\Constructors\\Constructors\\3_Constructors.csproj": {
+    "D:\\UNI\\OOP\\3_Constructors\\Constructors\\3_Constructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UNI\\OOP\\Constructors\\Constructors\\3_Constructors.csproj",
+        "projectUniqueName": "D:\\UNI\\OOP\\3_Constructors\\Constructors\\3_Constructors.csproj",
         "projectName": "3_Constructors",
-        "projectPath": "D:\\UNI\\OOP\\Constructors\\Constructors\\3_Constructors.csproj",
+        "projectPath": "D:\\UNI\\OOP\\3_Constructors\\Constructors\\3_Constructors.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "D:\\UNI\\OOP\\Constructors\\Constructors\\obj\\",
+        "outputPath": "D:\\UNI\\OOP\\3_Constructors\\Constructors\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

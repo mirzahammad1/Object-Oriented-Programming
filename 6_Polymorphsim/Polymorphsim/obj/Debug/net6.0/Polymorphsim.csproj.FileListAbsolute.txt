@@ -1,0 +1,15 @@
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\bin\Debug\net6.0\Polymorphsim.exe
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\bin\Debug\net6.0\Polymorphsim.deps.json
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\bin\Debug\net6.0\Polymorphsim.runtimeconfig.json
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\bin\Debug\net6.0\Polymorphsim.dll
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\bin\Debug\net6.0\Polymorphsim.pdb
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.csproj.AssemblyReference.cache
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.AssemblyInfoInputs.cache
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.AssemblyInfo.cs
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.csproj.CoreCompileInputs.cache
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.dll
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\refint\Polymorphsim.dll
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.pdb
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\Polymorphsim.genruntimeconfig.cache
+D:\UNI\OOP_1\Polymorphsim\Polymorphsim\obj\Debug\net6.0\ref\Polymorphsim.dll

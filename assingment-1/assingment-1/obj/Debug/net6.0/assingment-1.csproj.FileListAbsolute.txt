@@ -1,0 +1,15 @@
+D:\UNI\OOP_1\assingment-1\assingment-1\bin\Debug\net6.0\assingment-1.exe
+D:\UNI\OOP_1\assingment-1\assingment-1\bin\Debug\net6.0\assingment-1.deps.json
+D:\UNI\OOP_1\assingment-1\assingment-1\bin\Debug\net6.0\assingment-1.runtimeconfig.json
+D:\UNI\OOP_1\assingment-1\assingment-1\bin\Debug\net6.0\assingment-1.dll
+D:\UNI\OOP_1\assingment-1\assingment-1\bin\Debug\net6.0\assingment-1.pdb
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.csproj.AssemblyReference.cache
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.AssemblyInfoInputs.cache
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.AssemblyInfo.cs
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.csproj.CoreCompileInputs.cache
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.dll
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\refint\assingment-1.dll
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.pdb
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\assingment-1.genruntimeconfig.cache
+D:\UNI\OOP_1\assingment-1\assingment-1\obj\Debug\net6.0\ref\assingment-1.dll

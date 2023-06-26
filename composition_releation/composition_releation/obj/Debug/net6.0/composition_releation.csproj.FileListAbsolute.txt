@@ -1,0 +1,15 @@
+D:\UNI\OOP\composition_releation\composition_releation\bin\Debug\net6.0\composition_releation.exe
+D:\UNI\OOP\composition_releation\composition_releation\bin\Debug\net6.0\composition_releation.deps.json
+D:\UNI\OOP\composition_releation\composition_releation\bin\Debug\net6.0\composition_releation.runtimeconfig.json
+D:\UNI\OOP\composition_releation\composition_releation\bin\Debug\net6.0\composition_releation.dll
+D:\UNI\OOP\composition_releation\composition_releation\bin\Debug\net6.0\composition_releation.pdb
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.csproj.AssemblyReference.cache
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.AssemblyInfoInputs.cache
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.AssemblyInfo.cs
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.csproj.CoreCompileInputs.cache
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.dll
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\refint\composition_releation.dll
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.pdb
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\composition_releation.genruntimeconfig.cache
+D:\UNI\OOP\composition_releation\composition_releation\obj\Debug\net6.0\ref\composition_releation.dll

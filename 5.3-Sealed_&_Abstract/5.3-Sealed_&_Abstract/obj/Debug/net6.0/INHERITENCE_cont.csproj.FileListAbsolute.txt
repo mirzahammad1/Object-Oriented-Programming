@@ -1,0 +1,15 @@
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\bin\Debug\net6.0\INHERITENCE_cont.exe
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\bin\Debug\net6.0\INHERITENCE_cont.deps.json
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\bin\Debug\net6.0\INHERITENCE_cont.runtimeconfig.json
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\bin\Debug\net6.0\INHERITENCE_cont.dll
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\bin\Debug\net6.0\INHERITENCE_cont.pdb
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.csproj.AssemblyReference.cache
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.AssemblyInfoInputs.cache
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.AssemblyInfo.cs
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.csproj.CoreCompileInputs.cache
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.dll
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\refint\INHERITENCE_cont.dll
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.pdb
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\INHERITENCE_cont.genruntimeconfig.cache
+D:\UNI\OOP_1\INHERITENCE_cont\INHERITENCE_cont\obj\Debug\net6.0\ref\INHERITENCE_cont.dll

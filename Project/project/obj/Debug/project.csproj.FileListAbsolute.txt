@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\project\project\bin\Debug\project.exe.config
+C:\Users\DELL\Desktop\project\project\bin\Debug\project.exe
+C:\Users\DELL\Desktop\project\project\bin\Debug\project.pdb
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.Form1.resources
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.Login.resources
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.MainMenu.resources
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.Properties.Resources.resources
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.exe
+C:\Users\DELL\Desktop\project\project\obj\Debug\project.pdb
+C:\Users\DELL\Desktop\Project\project\obj\Debug\project.AddAcc.resources
+C:\Users\DELL\Desktop\Project\project\obj\Debug\project.Transaction.resources
